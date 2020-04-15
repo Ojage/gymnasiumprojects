@@ -1,0 +1,39 @@
+h1,h2,h3{
+    padding: 15px;
+    text-align: center;
+    border: solid;
+    border-bottom: #446655 5px ;
+}
+div.img {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+}
+
+div.img:hover {
+    border: 1px solid #777;
+}
+
+div.img img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+em{
+    font-family: fantasy;
+    font-size: larger;
+}
+#link{
+    padding: 15px;
+    font-family: cursive;
+    border-left: solid;
+}
+#beg{
+    font-family: cursive;
+    border-left: solid;
+}
